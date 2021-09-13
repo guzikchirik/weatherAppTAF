@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 27.5667,
+    "lat": 53.9
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "небольшая облачность",
+      "icon": "02d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 23.86,
+    "feels_like": 23.58,
+    "temp_min": 23.86,
+    "temp_max": 23.86,
+    "pressure": 1017,
+    "humidity": 49,
+    "sea_level": 1017,
+    "grnd_level": 992
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.96,
+    "deg": 256,
+    "gust": 2.7
+  },
+  "clouds": {
+    "all": 13
+  },
+  "dt": 1631284298,
+  "sys": {
+    "type": 1,
+    "id": 8939,
+    "country": "BY",
+    "sunrise": 1631244854,
+    "sunset": 1631291973
+  },
+  "timezone": 10800,
+  "id": 625144,
+  "name": "Минск",
+  "cod": 200
+}

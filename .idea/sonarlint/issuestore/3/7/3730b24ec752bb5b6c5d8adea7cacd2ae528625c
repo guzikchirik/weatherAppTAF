@@ -1,0 +1,62 @@
+
+F
+java:S2629W"$Invoke method(s) only conditionally.(ÀáöÑüÿÿÿÿ8“Š§Ó¼/
+M
+java:S3740š"/Provide the parametrized type for this generic.(¸¨Ş×8“Š§Ó¼/
+L
+java:S3740N"/Provide the parametrized type for this generic.(¹‰òÒ8“Š§Ó¼/
+F
+java:S2629{"$Invoke method(s) only conditionally.(îæµ©úÿÿÿÿ8“Š§Ó¼/
+G
+java:S2629ƒ"$Invoke method(s) only conditionally.(É«ğ·ıÿÿÿÿ8“Š§Ó¼/
+2
+java:S1700"Rename field "LOGGER"(µçßß8‚££Ó¼/
+Q
+java:S3740:"/Provide the parametrized type for this generic.(šÑšŠÿÿÿÿÿ8“Š§Ó¼/
+A
+java:S2629;"$Invoke method(s) only conditionally.(úéôï8“Š§Ó¼/
+A
+java:S2629"$Invoke method(s) only conditionally.(ŸëºÅ8“Š§Ó¼/
+A
+java:S2629"$Invoke method(s) only conditionally.(‘¦Ê8“Š§Ó¼/
+F
+java:S2629c"$Invoke method(s) only conditionally.(ÏÁ›Äıÿÿÿÿ8“Š§Ó¼/
+@
+java:S2629g"$Invoke method(s) only conditionally.(Á®–F8“Š§Ó¼/
+A
+java:S2629C"$Invoke method(s) only conditionally.(ë‚èó8“Š§Ó¼/
+F
+java:S2629?"$Invoke method(s) only conditionally.(Á£µÔıÿÿÿÿ8“Š§Ó¼/
+F
+java:S2629S"$Invoke method(s) only conditionally.(·Ğÿ»øÿÿÿÿ8“Š§Ó¼/
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(¶Ÿ8“Š§Ó¼/
+A
+java:S26297"$Invoke method(s) only conditionally.(‘şşã8“Š§Ó¼/
+F
+java:S2629_"$Invoke method(s) only conditionally.(Ã€ÉÈüÿÿÿÿ8“Š§Ó¼/
+Q
+java:S3740""/Provide the parametrized type for this generic.(Ê§Š¥ûÿÿÿÿ8“Š§Ó¼/
+A
+java:S2629("$Invoke method(s) only conditionally.(‰Î¿Õ8“Š§Ó¼/
+A
+java:S2629O"$Invoke method(s) only conditionally.(Óáû8“Š§Ó¼/
+M
+java:S3740"/Provide the parametrized type for this generic.(íÇá¶8“Š§Ó¼/
+A
+java:S2629"$Invoke method(s) only conditionally.(Ì„İ¢8³è¤Ó¼/
+A
+java:S2629o"$Invoke method(s) only conditionally.(èñ°¯8“Š§Ó¼/
+F
+java:S2629w"$Invoke method(s) only conditionally.(ïª¹ùÿÿÿÿ8“Š§Ó¼/
+A
+java:S26293"$Invoke method(s) only conditionally.(÷í²à8“Š§Ó¼/
+9
+java:S5164"Call "remove()" on "LOGGER".(µçßß8‚££Ó¼/
+F
+java:S2629s"$Invoke method(s) only conditionally.(Æ”‚üûÿÿÿÿ8“Š§Ó¼/
+Q
+java:S3740r"/Provide the parametrized type for this generic.(»úÖ£ùÿÿÿÿ8“Š§Ó¼/
+A
+java:S2629#"$Invoke method(s) only conditionally.(šéŒö8“Š§Ó¼/
+F
+java:S2629K"$Invoke method(s) only conditionally.(Š³½Ïúÿÿÿÿ8“Š§Ó¼/

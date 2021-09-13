@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8œ•èÚ¼/
+h
+java:S2142s"FEither re-interrupt this method or rethrow the "InterruptedException".(üÍ”ûÿÿÿÿ8í¿áØ¼/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¢àóÄ8êîøØ¼/
+c
+java:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“–ùØ¼/
+h
+java:S2142f"FEither re-interrupt this method or rethrow the "InterruptedException".(üÍ”ûÿÿÿÿ8í¿áØ¼/
+a
+java:S2147*"DCombine this catch with the one at line 40, which has the same body.(ä ¹€8“–ùØ¼/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ëÅ¨Îøÿÿÿÿ8ÇŸîÚ¼/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ïû8êîøØ¼/
+h
+java:S2184|"FCast one of the operands of this multiplication operation to a "long".(•ù“ÿÿÿÿÿ8í¿áØ¼/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ß™ã”üÿÿÿÿ8¥±ôÚ¼/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¯­óàûÿÿÿÿ8í¿áØ¼/
